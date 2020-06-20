@@ -1,0 +1,15 @@
+body{background-image: url(chillback.jpg);
+	background-size: cover;
+	color: white}
+
+.frfr {color: white;
+	background color: white;}
+
+.container	{display: flex;}
+
+img {width: 450px;
+	height:300px;
+	margin: 300px;
+	transition: all 1s;}
+
+img:hover{transform: scale(1.3);}

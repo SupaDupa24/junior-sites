@@ -1,0 +1,40 @@
+
+/*realstyle*/
+/*myfirstwebsite*/
+
+
+body{
+	color:rgba(74, 80, 198, 1);
+	text-align: center;
+	order: none;
+	font-family: "Times New Roman", Georgia;
+	  background: url(coolio.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;}
+
+header{color:rgba(74, 80, 198, .30);
+		background-color: white; 
+		}
+
+.webtext:first child{border: 5px dashed;
+		background-color: white;
+		cursor: pointer;
+		display: inline-block;}
+		
+h3:hover{background-color: white;
+	text-align: left;}
+
+.active{color: blue;}
+
+.div1 {background-color: rgba(0,0,255,.15);
+		color: white;}
+
+.container{display: flex;}
+
+
+h2:hover{
+		color: white;
+		background-color: rgba(74, 80, 198);
+}
